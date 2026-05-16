@@ -18,8 +18,8 @@
 ### 1. Клонирование проекта
 
 ```bash
-git clone <repository_url>
-cd <project_folder>
+git clone https://github.com/Hitoshi144/MatrixGameSolver.git
+cd MatrixGameSolver
 ```
 
 ## 📌 Создание виртуального окружения
